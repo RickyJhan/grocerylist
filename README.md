@@ -1,6 +1,6 @@
-# Vue Crash Course (TodoList)
+# Vue Crash Course (GroceryList)
 
-This is the code for [the crash course on YouTube](https://youtu.be/Wy9q22isx3U)
+Reference This is the code for [the crash course on YouTube](https://youtu.be/Wy9q22isx3U)
 
 ## Quick Start
 
